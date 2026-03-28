@@ -1,0 +1,98 @@
+{
+  "6036479640": {
+    "buyPls": "100000",
+    "slippagePct": 5,
+    "feeMode": "AUTO",
+    "maxFeeGwei": "55",
+    "prioFeeGwei": "6",
+    "gasMode": "AUTO",
+    "gasLimit": "350000",
+    "presets": [
+      2000000,
+      5000000,
+      10000000,
+      15000000,
+      20000000
+    ],
+    "confirmMode": true,
+    "feePresets": {
+      "NORMAL": {
+        "maxFeeGwei": "30",
+        "prioFeeGwei": "3"
+      },
+      "FAST": {
+        "maxFeeGwei": "120",
+        "prioFeeGwei": "12"
+      },
+      "AGGRO": {
+        "maxFeeGwei": "200",
+        "prioFeeGwei": "20"
+      }
+    },
+    "positions": {
+      "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab": {
+        "qty": "0",
+        "costWei": "0",
+        "realizedWei": "0"
+      },
+      "0xD648410cff800C120FC1e1f48F3289385687E634": {
+        "qty": "0",
+        "costWei": "0",
+        "realizedWei": "0"
+      }
+    },
+    "activeFee": "FAST",
+    "quickBuyAmounts": [
+      "2000000",
+      "5000000",
+      "10000000",
+      "15000000",
+      "20000000"
+    ]
+  },
+  "__cache": {
+    "6036479640": {
+      "buyPls": "100000",
+      "slippagePct": 5,
+      "feeMode": "AUTO",
+      "maxFeeGwei": "55",
+      "prioFeeGwei": "6",
+      "gasMode": "AUTO",
+      "gasLimit": "350000",
+      "presets": [
+        2000000,
+        5000000,
+        10000000,
+        15000000,
+        20000000
+      ],
+      "confirmMode": true,
+      "feePresets": {
+        "NORMAL": {
+          "maxFeeGwei": "25",
+          "prioFeeGwei": "2"
+        },
+        "FAST": {
+          "maxFeeGwei": "35",
+          "prioFeeGwei": "3"
+        },
+        "AGGRO": {
+          "maxFeeGwei": "55",
+          "prioFeeGwei": "6"
+        }
+      },
+      "positions": {
+        "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab": {
+          "qty": "0",
+          "costWei": "0",
+          "realizedWei": "0"
+        },
+        "0xD648410cff800C120FC1e1f48F3289385687E634": {
+          "qty": "0",
+          "costWei": "0",
+          "realizedWei": "0"
+        }
+      }
+    }
+  }
+}
