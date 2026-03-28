@@ -35,6 +35,7 @@ The bot listens for user input through Telegram and processes commands to execut
 ---
 
 ## Notes
+This project demonstrates practical experience working with asynchronous JavaScript, API integration, and blockchain transaction handling.
 
 This project is intended for learning and demonstration purposes. Sensitive data such as private keys and API credentials are not included in this repository.
 
