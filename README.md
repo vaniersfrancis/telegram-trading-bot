@@ -1,6 +1,6 @@
-# PulseChain Trading Bot
+# Telegram Trading Bot
 
-A Telegram-based trading bot built with Node.js and ethers.js for executing trades on PulseChain.
+A Telegram-based trading bot built with Node.js and ethers.js for executing trades on the blockchain.
 
 ## Features
 - Buy and sell tokens through Telegram commands
@@ -14,4 +14,4 @@ A Telegram-based trading bot built with Node.js and ethers.js for executing trad
 - Telegram Bot API
 
 ## Overview
-This bot connects to the PulseChain network through an RPC provider and allows users to execute trades directly from Telegram. It focuses on speed, simplicity, and manual control of transactions.
+This bot interacts with an EVM-compatible blockchain via an RPC provider, enabling users to execute and manage trades directly from Telegram. It emphasizes fast execution, configurable parameters, and user-controlled transaction flow.
