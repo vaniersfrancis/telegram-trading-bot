@@ -2,11 +2,11 @@
 
 A Telegram-based trading bot built with Node.js and ethers.js for executing on-chain transactions through a simple and responsive interface.
 
----
 ## Overview
 This project is a trading automation system built with Node.js and ethers.js. It interacts with blockchain networks through an RPC provider to execute transactions in real time.
 
 It focuses on speed, simplicity, and manual control, allowing users to interact with the system through commands while handling real-time transaction processing.
+
 ---
 ## Key Features
 - Command-based trade execution
